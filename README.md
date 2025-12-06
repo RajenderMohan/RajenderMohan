@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | Django & Front-End Developer | Android Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Python+Programmer;Android+App+Developer;Always+Learning+New+Tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Python+Programmer;Android+App+Developer;Always+Learning+New+Tech!" />
 </p>
 
 ---
@@ -83,19 +83,19 @@ Quiz app with animations, audio feedback, timer & results page.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RajenderMohan&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RajenderMohan&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajenderMohan&theme=radical" />
 </p>
 
 ---
 
 ## 🔥 Streaks  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=highcontrast" />
+  <img src="https://streak-stats.demolab.com/?user=RajenderMohan&theme=highcontrast" />
 </p>
 
 ---
