@@ -34,7 +34,7 @@ I enjoy building modern & interactive digital experiences using latest web techn
 
 <!-- Highlight badges showing your coding journey -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Coding%20Since-2021-00eaff?style=for-the-badge&logo=code" />
+  <img src="https://img.shields.io/badge/Coding%20Since-2023-00eaff?style=for-the-badge&logo=code" />
   <img src="https://img.shields.io/badge/Current%20Focus-FullStack%20Development-ff6f91?style=for-the-badge" />
 </p>
 
