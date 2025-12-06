@@ -91,9 +91,11 @@ Responsive form with real-time JavaScript validation.
 ---
 
 ### 🧠 **Python Quiz App (Django)**
-Quiz app with animations, timer, audio feedback & results page.  
-🔗 **Live Demo:** https://python-quiz-three.vercel.app/
-🔧 **Tech:** Python, Django, HTML, CSS, JavaScript  
+An interactive quiz app with animations, timer, audio feedback & results page.  
+🔗 **Live Demo:** https://python-quiz-three.vercel.app/  
+🔧 **Tech:** Python, Django, HTML, CSS, JavaScript
+
+ 
 ---
 
 ## 🔥 Interactive GitHub Badges (Always Working)
