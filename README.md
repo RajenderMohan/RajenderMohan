@@ -120,15 +120,18 @@ Quiz app with animations, timer, audio feedback & results page.
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" />
 </p>
+
 
 ---
 
 ## ⭐ Professional Role Badges  
 <p align="center">
   <img src="https://img.shields.io/badge/Web_Developer-⚡-brightgreen?style=for-the-badge" />
+     <img src="https://img.shields.io/badge/Java%20Developer-☕-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python_Developer-🐍-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android_Learner-📱-orange?style=for-the-badge" />
 </p>
