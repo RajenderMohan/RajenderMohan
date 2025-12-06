@@ -90,10 +90,12 @@ I enjoy building modern & interactive digital experiences using latest web techn
   <img src="https://github-profile-trophy.vercel.app/?username=RajenderMohan&theme=dracula&margin-w=12" />
 </p>
 
-- ⭐ LeetCode 100 Days Challenge Badge  
-- ⭐ DCC September & October Badge  
-- 🎓 Simplilearn – Intro to Front-End Development  
-- 🎓 OneRoadmap — 75% Score  
+- 🥇 **LeetCode 100 Days Challenge Badge 2025**  
+- 🥇 **LeetCode 50 Days Badge**  
+- 🥇 **LeetCode DCC September 2025**  
+- 🥇 **LeetCode DCC October 2025**  
+- 🎓 **Simplilearn – Introduction to Front-End Development**  
+- 🎓 **OneRoadmap Frontend Test – Scored 75%**  
 
 ---
 
