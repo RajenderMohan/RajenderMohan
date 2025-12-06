@@ -1,48 +1,65 @@
-<!-- Header Banner -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4FD1C5;">Rajender Mohan Verma</span></h1>
-<h3 align="center">Aspiring Full-Stack Developer | Django & Front-End Developer | Android Learner</h3>
+<!-- ==========================================================
+     Rajender Mohan Verma - Professional GitHub README
+     Paste this entire content into your README.md file
+============================================================== -->
 
+<!-- Animated Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Python+Programmer;Android+App+Developer;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Rajender+Mohan+Verma;Aspiring+Full-Stack+Developer;Building+Cool+UI+%26+Smart+Apps;Always+Learning+New+Tech!" alt="Typing SVG" />
+</p>
+
+<h1 align="center">👋 Hi, I'm <span style="color:#4FD1C5;">Rajender Mohan Verma</span></h1>
+<p align="center">
+  <strong>Aspiring Full-Stack Developer</strong> • Django & Frontend • Android Learner  
+</p>
+
+<!-- Quick Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-India-informational?style=for-the-badge&logo=google-maps" />
+  <img src="https://img.shields.io/badge/Student-BCA-blue?style=for-the-badge&logo=study" />
+  <img src="https://img.shields.io/badge/Available_for-Internships-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me  
-I am **Rajender Mohan Verma**, pursuing **BCA** from **Don Bosco Institute of Technology**.  
-I am passionate about crafting clean, responsive, and dynamic digital experiences using modern technologies.
+## 🚀 About Me
+I’m **Rajender Mohan Verma**, currently pursuing **BCA** from **Don Bosco Institute of Technology**.  
+I love building clean, responsive, interactive digital experiences using modern technologies.
 
-I enjoy solving real-world problems, building projects, practicing DSA, and learning something new every single day.
+I enjoy solving real-world problems, developing unique UI concepts, practicing DSA, and learning something new every day.
 
----
+<details>
+<summary><strong>🔍 Quick Facts (Click to expand)</strong></summary>
 
-## 🎯 Mission & Vision
-- 🌱 To become a **skilled full-stack developer**  
-- 💡 To build **smart, fast & user-friendly applications**  
-- 🚀 To contribute meaningfully to an innovative organization  
-- 🎓 To continuously upskill through projects, training, and coding challenges  
+- 🔵 Passionate Web Developer (Frontend + Django)  
+- 💻 Learning React & Modern JavaScript  
+- 🧠 Strong logic-building through Python & C++  
+- 🎓 Completed multiple certifications & coding milestones  
+- ⚡ Love animations, UI/UX, and interactive projects  
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 **Frontend Development**
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap" />
 </p>
 
 ### 🖥️ **Backend & Frameworks**
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
 ### 📱 **Mobile App Development**
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" />
 </p>
 
 ### 🗄️ **Database & Dev Tools**
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
@@ -51,8 +68,7 @@ I enjoy solving real-world problems, building projects, practicing DSA, and lear
 ## 🏆 Achievements & Certifications  
 - 🥇 **LeetCode 100 Days Challenge Badge 2025**  
 - 🥇 **LeetCode 50 Days Badge**  
-- 🥇 **LeetCode DCC September 2025**  
-- 🥇 **LeetCode DCC October 2025**  
+- 🥇 **DCC September & October Badges 2025**  
 - 🎓 **Simplilearn – Introduction to Front-End Development**  
 - 🎓 **OneRoadmap Frontend Test – Scored 75%**  
 
@@ -60,38 +76,61 @@ I enjoy solving real-world problems, building projects, practicing DSA, and lear
 
 ## 📂 Featured Projects
 
-### 🎨 **Neon Calculator**  
-A glowing neon-style calculator with clean UI and advanced math functions.  
-🔗 Live Demo: https://intractive-math-calculator.netlify.app/  
-🔧 Tech Used: HTML, CSS, JavaScript  
+### 🎨 **Neon Calculator**
+A glowing neon-style calculator with advanced math functions.  
+🔗 **Live Demo:** https://intractive-math-calculator.netlify.app/  
+🔧 **Tech:** HTML, CSS, JavaScript  
 
 ---
 
-### 📝 **Validation Page**  
-A responsive registration form with JavaScript validation.  
-🔗 Live Demo: https://reg-validation-page.netlify.app/  
-🔧 Tech Used: HTML, CSS, JS  
+### 📝 **Validation Page**
+Responsive form with real-time JavaScript validation.  
+🔗 **Live Demo:** https://reg-validation-page.netlify.app/  
+🔧 **Tech:** HTML, CSS, JavaScript  
 
 ---
 
-### 🧠 **Python Quiz App**  
-Quiz app with animations, audio feedback, timer & results page.  
-🔧 Tech Used: Python, Django, HTML, CSS, JS  
+### 🧠 **Python Quiz App (Django)**
+Quiz app with animations, timer, audio feedback & results page.  
+🔧 **Tech:** Python, Django, HTML, CSS, JavaScript  
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Interactive GitHub Badges (Always Working)
 
 <p align="center">
-  <img src="https://github-readme-stats-mu-blond-36.vercel.app/api?username=RajenderMohan&show_icons=true&theme=radical" height="180" />
-</p>
-
- <p align="center">
-  <img src="https://github-readme-stats-mu-blond-36.vercel.app/api/top-langs/?username=RajenderMohan&layout=compact&theme=radical" height="180" />
+  <img src="https://img.shields.io/badge/GitHub-RajenderMohan-black?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajenderMohan&theme=radical" />
+  <img src="https://img.shields.io/badge/Followers-100+-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-50+-yellow?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-Active-green?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Projects-Completed-brightgreen?style=for-the-badge&logo=code" />
+</p>
+
+---
+
+## ⭐ Top Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" />
+</p>
+
+---
+
+## ⭐ Professional Role Badges  
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Developer-⚡-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python_Developer-🐍-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android_Learner-📱-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -104,10 +143,13 @@ Quiz app with animations, audio feedback, timer & results page.
 ---
 
 ## 🤝 Connect With Me  
-📧 Email: **your-email-here**  
-🔗 LinkedIn: **your-link-here**  
+<p align="center">
+  <a href="mailto:your-email-here"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
 
 ---
 
 <h3 align="center">⭐ Thanks for Visiting My GitHub Profile ⭐</h3>
 <p align="center">Show some ❤️ by starring my repositories!</p>
+
