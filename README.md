@@ -15,7 +15,7 @@
 
 <!-- Quick Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-India-informational?style=for-the-badge&logo=google-maps" />
+  <img src="https://img.shields.io/badge/Location-Sangam Vihar, Delhi, India-informational?style=for-the-badge&logo=google-maps" />
   <img src="https://img.shields.io/badge/Student-BCA-blue?style=for-the-badge&logo=study" />
   <img src="https://img.shields.io/badge/Available_for-Internships-success?style=for-the-badge" />
 </p>
@@ -92,8 +92,8 @@ Responsive form with real-time JavaScript validation.
 
 ### 🧠 **Python Quiz App (Django)**
 Quiz app with animations, timer, audio feedback & results page.  
+🔗 **Live Demo:** https://python-quiz-three.vercel.app/
 🔧 **Tech:** Python, Django, HTML, CSS, JavaScript  
-
 ---
 
 ## 🔥 Interactive GitHub Badges (Always Working)
